@@ -14,7 +14,7 @@ To run the example:
 
     $ npm install
     $ cd test
-    $ node index.js
+    $ node aimlinterpreter.js
 
 ## Usage
 
