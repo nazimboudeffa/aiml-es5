@@ -1,0 +1,26 @@
+{
+  "name": "aiml-es5",
+  "version": "1.0.0",
+  "description": "AIML\r =======",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "dom-js": "^0.0.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nazimboudeffa/aiml-es5.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nazimboudeffa/aiml-es5/issues"
+  },
+  "homepage": "https://github.com/nazimboudeffa/aiml-es5#readme"
+}
