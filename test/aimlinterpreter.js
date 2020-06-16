@@ -1,7 +1,7 @@
 AIMLInterpreter = require('../index');
 
 var aimlInterpreter = new AIMLInterpreter({name:'WireInterpreter', age:'42'});
-aimlInterpreter.loadAIMLFilesIntoArray(['./dialogs/aiml.xml']);
+aimlInterpreter.loadAIMLFilesIntoArray(['./aiml.xml']);
 
 var callback = function(answer, wildCardArray, input){
     console.log(answer + ' | ' + wildCardArray + ' | ' + input);
