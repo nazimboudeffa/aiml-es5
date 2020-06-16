@@ -13,7 +13,7 @@ AIMLInterpreter is a module that allows you to parse AIML files and to find the 
 To run the example:
 
     $ npm install
-    $ node examples/movie.js
+    $ node test/index.js
 
 ## Usage
 
